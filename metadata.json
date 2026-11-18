@@ -1,0 +1,6 @@
+{
+  "name": "Buy or Skip",
+  "description": "E-commerce product due-diligence dashboard that inspects product pages and searches customer complaints, durability issues, and Reddit discussions to deliver a BUY, CAUTION, or CANCEL / SKIP verdict.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
